@@ -11,6 +11,12 @@ Welcome to the **unofficial** community hub for the **Screenmate One**. This rep
 
 ---
 
+## Unofficial Screenmate One Discord
+
+> https://discord.gg/5NRGvjJSuh
+
+---
+
 ## Project Scope
 
 The **Screenmate One** is a hardware and software upgrade that acts as a "second computer" for your Tesla. It allows you to bypass the limitations of the factory infotainment system by running a full Android environment. This repository focuses on:
