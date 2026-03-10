@@ -1,4 +1,4 @@
-# Screenmate One: Unofficial Widget Development & Issue Tracking
+# Screenmate One: Unofficial Development & Issue Tracking
 
 <p align="center">
   <img src="https://screenmate.co/cdn/shop/t/3/assets/sreenmate_banner_device.png?v=160609404650948865471765817700" width="300">
@@ -17,9 +17,8 @@ Welcome to the **unofficial** community hub for the **Screenmate One**. This rep
 
 The **Screenmate One** is a hardware and software upgrade that acts as a "second computer" for your Tesla. It allows you to bypass the limitations of the factory infotainment system by running a full Android environment. This repository focuses on:
 
-* **Widget Add-ons:** Crafting modular, glanceable interfaces (e.g., weather, system monitors, productivity trackers).
+* **Smart Functions and Automation Scripts:** Crafting smart functions and automation scripts in Python when the Screenmate One releases the source code.
 * **Issue Tracking:** Documenting community-found bugs, hardware limitations, and firmware inconsistencies for reference.
-* **Community Documentation:** Mapping out the internal API and communication protocols for fellow developers.
 
 ---
 
