@@ -27,7 +27,7 @@ The **Screenmate One** is a hardware and software upgrade that acts as a "second
 ### Key Features
 
 - ✅ Expanded Entertainment: Stream video services and play mobile games from the Google Play Store using a dedicated Qualcomm chipset.
-- ❌ Enhanced Controls: Adds a custom control panel for functions not easily accessible in the standard Tesla UI, such as adjusting the passenger seat, dimming mirrors, or activating battery preconditioning.
+- 🟡 Enhanced Controls: Adds a custom control panel for functions not easily accessible in the standard Tesla UI, such as adjusting the passenger seat, dimming mirrors, or activating battery preconditioning.
 - ✅ Dashboard Overlay: Keeps an instrument panel (speed, battery, blind-spot warnings) visible on top of third-party apps.
 - 🟡 Hardware Connectivity: Includes HDMI and USB inputs to connect gaming consoles (like a Nintendo Switch or Steam Deck) or a front-facing bumper camera.
 - ✅ Screenmate Dash: Screenmate Dash transforms your phone into a fully functional instrument cluster, conveniently positioned right in your line of sight.
