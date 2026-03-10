@@ -8,6 +8,7 @@ Welcome to the **unofficial** community hub for the **Screenmate One**. This rep
 
 > [!IMPORTANT]
 > **Disclaimer:** This project is not affiliated with, endorsed by, or connected to the official Screenmate hardware or software teams. Development in this repository is strictly limited to modular widget add-ons and does not involve core product or firmware engineering.
+> 
 > **Unofficial Screenmate One Discord Invite Link:** https://discord.gg/5NRGvjJSuh
 
 ---
