@@ -9,7 +9,7 @@ Welcome to the **unofficial** community hub for the **Screenmate One**. This rep
 
 ## Project Scope
 
-The Screenmate One is a dedicated desktop companion designed to bridge the gap between your digital workflow and your physical workspace. This repository focuses on:
+The **Screenmate One** is a specialized Android-based hardware interface designed to integrate seamlessly with Tesla vehicles. Functioning as a high-performance "middleman" between the Tesla onboard computer and the primary infotainment display. This repository focuses on:
 
 * **Widget Add-ons:** Crafting modular, glanceable interfaces (e.g., weather, system monitors, productivity trackers).
 * **Issue Tracking:** Documenting community-found bugs, hardware limitations, and firmware inconsistencies for reference.
