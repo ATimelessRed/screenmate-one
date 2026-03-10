@@ -38,7 +38,7 @@ Legend:
 
 - ✅ Feature is fully implemented and available now.
 - 🟡 Feature is partially implemented or has bugs. Check the issues page for more information.
-- ❌ Feature is at all functional or has yet to be released.
+- ❌ Feature is not at all functional or has yet to be released.
 
 ---
 
