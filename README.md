@@ -13,7 +13,7 @@ Welcome to the **unofficial** community hub for the **Screenmate One**. This rep
 
 ## Project Scope
 
-The **Screenmate One** is a specialized Android-based hardware interface designed to integrate seamlessly with Tesla vehicles. Functioning as a high-performance "middleman" between the Tesla onboard computer and the primary infotainment display. This repository focuses on:
+The **Screenmate One** is a hardware and software upgrade that acts as a "second computer" for your Tesla. It allows you to bypass the limitations of the factory infotainment system by running a full Android environment. This repository focuses on:
 
 * **Widget Add-ons:** Crafting modular, glanceable interfaces (e.g., weather, system monitors, productivity trackers).
 * **Issue Tracking:** Documenting community-found bugs, hardware limitations, and firmware inconsistencies for reference.
