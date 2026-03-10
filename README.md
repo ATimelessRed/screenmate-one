@@ -1,7 +1,7 @@
 # Screenmate One: Unofficial Widget Development & Issue Tracking
 
 <p align="center">
-  <img src="https://screenmate.co/cdn/shop/t/3/assets/sreenmate_banner_device.png?v=160609404650948865471765817700" width="600">
+  <img src="https://screenmate.co/cdn/shop/t/3/assets/sreenmate_banner_device.png?v=160609404650948865471765817700" width="300">
 </p>
 
 Welcome to the **unofficial** community hub for the **Screenmate One**. This repository is maintained as a personal space for tracking device issues and developing custom add-ons. 
