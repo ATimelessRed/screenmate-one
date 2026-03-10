@@ -11,8 +11,8 @@ Welcome to the **unofficial** community hub for the **Screenmate One**. This rep
 
 ---
 
-> [Unofficial Screenmate One Discord]
-> https://discord.gg/5NRGvjJSuh
+> [!Unofficial Screenmate One Discord]
+> **Invite Link:** https://discord.gg/5NRGvjJSuh
 
 ---
 
