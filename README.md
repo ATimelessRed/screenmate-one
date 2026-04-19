@@ -19,17 +19,17 @@ The **Screenmate One** is a hardware and software upgrade that acts as a "second
 
 ### Core Functionality
 
-- 🟡 Android Integration: Run any Android app directly on your Tesla’s main screen, including Google Maps, Waze, Netflix, and Disney+.
-- ❌ CarPlay & Android Auto: Adds native support for wireless Apple CarPlay and Android Auto.
+- ✅ Android Integration: Run any Android app directly on your Tesla’s main screen, including Google Maps, Waze, Netflix, and Disney+.
+- 🟡 CarPlay & Android Auto: Adds native support for wireless Apple CarPlay and Android Auto.
 - ✅ Dual View Mode: Run Android apps on the right side of the screen while keeping the native Tesla interface (and its vital safety features) active on the left.
 - ✅ Four-Finger Gesture: Seamlessly toggle between the stock Tesla UI and the Screenmate Android interface with a four-finger touch.
 
 ### Key Features
 
 - ✅ Expanded Entertainment: Stream video services and play mobile games from the Google Play Store using a dedicated Qualcomm chipset.
-- 🟡 Enhanced Controls: Adds a custom control panel for functions not easily accessible in the standard Tesla UI, such as adjusting the passenger seat, dimming mirrors, or activating battery preconditioning.
+- ✅ Enhanced Controls: Adds a custom control panel for functions not easily accessible in the standard Tesla UI, such as adjusting the passenger seat, dimming mirrors, or activating battery preconditioning.
 - ✅ Dashboard Overlay: Keeps an instrument panel (speed, battery, blind-spot warnings) visible on top of third-party apps.
-- 🟡 Hardware Connectivity: Includes HDMI and USB inputs to connect gaming consoles (like a Nintendo Switch or Steam Deck) or a front-facing bumper camera.
+- ✅ Hardware Connectivity: Includes HDMI and USB inputs to connect gaming consoles (like a Nintendo Switch or Steam Deck) or a front-facing bumper camera.
 - ✅ Screenmate Dash: Screenmate Dash transforms your phone into a fully functional instrument cluster, conveniently positioned right in your line of sight.
 - ❌ Front Wireless Camera Integration: Ability to add an optional front camera to your car.
 - ❌ Open Source Software: The source code for the Screenmate app will be provided on the Screenmate Team github page.
