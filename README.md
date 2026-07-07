@@ -7,9 +7,13 @@
 Welcome to the **unofficial** community hub for the **Screenmate One**. This repository is maintained as a personal space for tracking device issues and developing custom add-ons. 
 
 > [!IMPORTANT]
-> **Disclaimer:** This project is not affiliated with, endorsed by, or connected to the official Screenmate hardware or software teams. Development in this repository is strictly limited to custom add-ons/functions/scripts and does not involve core product or firmware engineering.
+> **Disclaimer:** This project is not directly affiliated with, endorsed by, or connected to the official Screenmate hardware or software teams. Development in this repository is strictly limited to custom add-ons/functions/scripts and does not involve core product or firmware engineering.
 > 
-> **Unofficial Screenmate One Discord Invite Link:** https://discord.gg/5NRGvjJSuh
+> **Screenmate One Discord Invite Link:** https://discord.gg/5NRGvjJSuh
+> 
+> **Disclosure:** The link below is an affiliate link. If you make a purchase through it, I may earn a commission at no additional cost to you.
+> 
+> **Save $89 off your Screenmate One Order:** https://lddy.no/1pph9?afmc=DEVIN
 
 ---
 
